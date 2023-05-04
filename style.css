@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 24px;
+    margin-bottom: 8px;
+  }
+  
+  label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 12px;
+  }
+  
+  textarea {
+    height: 200px;
+  }
+  
+  button[type="submit"] {
+    margin-top: 16px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  fieldset {
+    border: 1px solid #cccccc;
+    padding: 20px;
+  }
+  
+  fieldset legend {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #cccccc;
+    margin: 24px 0;
+  }
+  
+  #posts {
+    margin-top: 24px;
+  }
